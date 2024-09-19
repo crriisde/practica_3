@@ -5,7 +5,7 @@ Cristian Salas De La O 3-W
 # defenidas por mi
 
 print (" ") #esta variable muestra las comillas para el texto
-print ("Salas De La O Cristian David : Mi practica de  Numeros integer, float, complejo") #esta variable mostrara en la pantalla los datos 
+print ("Salas De La O Cristian David : Mi practica 3 numbers.py") #esta variable mostrara en la pantalla los datos 
 #de la practica
 print (" ") #esta variable muestra las comillas para el texto 
 
@@ -19,4 +19,4 @@ print (type(z)) #esta linea muestra la variable "z"
 
 print (" ")
 
-![image](https://github.com/user-attachments/assets/7cc8c31e-961c-4f05-b229-957b3b8cdbdb)
+![image](https://github.com/user-attachments/assets/9838b0ef-44df-4858-9968-f5d1c7b8e85f)
